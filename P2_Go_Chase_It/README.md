@@ -78,7 +78,8 @@ Now it's all set.
 Use the mouse to place the white ball at different positions in front of the robot and now the robot will be chasing the ball :)
 
 
-## Introduction
+## Result
 
 ![Video](./videos/P2_Go_Chase_It.gif)
-Complete video: https://youtu.be/ghSEWDT0KWc
+
+Complete video on youtube: https://youtu.be/ghSEWDT0KWc
