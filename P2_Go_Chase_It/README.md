@@ -74,7 +74,7 @@ $ source devel/setup.bash
 $ roslaunch ball_chaser ball_chaser.launch
 ```
 ## Folder Structure
-![FolderStructure](./images/FolderStructure.png)
+![FolderStructure](./images/FolderStructure-2.png)
 Now it's all set. 
 Use the mouse to place the white ball at different positions in front of the robot and now the robot will be chasing the ball :)
 
