@@ -11,6 +11,9 @@ P2_Go_Chase_It [README](./P2_Go_Chase_It/README.md)
 P3_P3_Where_Am_I [README](./P3_Where_Am_I/README.md)
 
 P4_MapMyWorld [README](./P4_MapMyWorld/README.md)
+<p align="center">
+  <img src="./P4_MapMyWorld/images/Overview.png"/>
+</p> 
 
 P5_HomeServiceRobot [README](./P5_HomeServiceRobot/README.md)
 <p align="center">
