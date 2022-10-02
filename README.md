@@ -8,7 +8,10 @@ P2_Go_Chase_It [README](./P2_Go_Chase_It/README.md)
   <img src="./P2_Go_Chase_It/videos/P2_Go_Chase_It.gif"/>
 </p> 
 
-P3_P3_Where_Am_I [README](./P3_Where_Am_I/README.md)
+P3_Where_Am_I [README](./P3_Where_Am_I/README.md)
+<p align="center">
+  <img src="./P3_Where_Am_I/images/localized_robot_RViz.png"/>
+</p> 
 
 P4_MapMyWorld [README](./P4_MapMyWorld/README.md)
 <p align="center">
