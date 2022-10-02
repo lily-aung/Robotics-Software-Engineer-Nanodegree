@@ -3,11 +3,12 @@
 
 Goal : A Home service robot is tasked to map the environment and navigate autonomously to pick up and drop virtual objects at designated locations.
 
-* Simulation Setup : Design a simulation environment with the Building Editor in Gazebo and load the robot in the world.
-* Mapping : Drives the robot to manually test SLAM and create a functional map of the environment for localization and navigation tasks, and save the GENERATED MAP.
-* Localization and Navigation : Use the ROS navigation stack and manually command the robot to move to two different designated locations using 2D Nav Goal arrow in rviz.
-* Pick_objects : Pick_objects is a node that sends multiple goals for the robot to reach.
-* Add_markers : Add_markers is a node that subscribes the robot odometry, tracks robot poses, and publishes markers to rviz.
+* **Simulation Setup** : Design a simulation environment with the Building Editor in Gazebo and load the robot in the world.
+* **Mapping** : Drives the robot to manually test SLAM and create a functional map of the environment for localization and navigation tasks, and save the GENERATED MAP.
+* **Localization and Navigation** : Use the ROS navigation stack and manually command the robot to move to two different designated locations using 2D Nav Goal arrow in rviz.
+* **Pick_objects** : Pick_objects is a node that sends multiple goals for the robot to reach.
+* **Add_markers** : Add_markers is a node that subscribes the robot odometry, tracks robot poses, and publishes markers to rviz.
+* **HomeService** : Run all the nodes in this project.
 
 ## Folder Structure
 ```
