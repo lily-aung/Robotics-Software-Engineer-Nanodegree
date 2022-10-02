@@ -19,6 +19,6 @@ P4_MapMyWorld [README](./P4_MapMyWorld/README.md)
 </p> 
 
 P5_HomeServiceRobot [README](./P5_HomeServiceRobot/README.md)
-<p align="center">
-  <img src="./P5_HomeServiceRobot/videos/PickUp.gif"/>
-</p> 
+Pick Up            |  Drop Off
+:-------------------------:|:-------------------------:
+![PickUp](./P5_HomeServiceRobot/videos/PickUp.gif)  |  ![DropOff](./P5_HomeServiceRobot/videos/DropOff.gif)
