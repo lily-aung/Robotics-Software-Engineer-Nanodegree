@@ -40,11 +40,12 @@ catkin_ws/src
     │   ├── home_service.rviz
     ├──pick_objects                    # pick_objects C++ node
     │   ├── src/pick_objects.cpp
-	│   ├── CMakeLists.txt
+    │	│   ├── CMakeLists.txt
     │   ├── ...
     ├──add_markers                     # add_markers C++ node
     │   ├── src/add_markers.cpp
-	│   ├── CMakeLists.txt	
+    │   ├── src/add_markers_test.cpp
+    │	│   ├── CMakeLists.txt	
     │   ├── ...
     └──
 ```
