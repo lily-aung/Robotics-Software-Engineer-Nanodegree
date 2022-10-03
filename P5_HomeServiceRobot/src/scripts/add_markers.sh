@@ -4,7 +4,7 @@ xterm  -e "source devel/setup.bash; export ROBOT_INITIAL_POSE='-x -5 -y -2 -z 0 
 sleep 5
 xterm  -e "source devel/setup.bash; roslaunch turtlebot_gazebo amcl_demo.launch map_file:=$(pwd)/src/map/myMap.yaml" &
 sleep 5
-xterm  -e "source devel/setup.bash; roslaunch turtlebot_rviz_launchers view_navigation.launch" &
-sleep 5
-xterm  -e "source devel/setup.bash; rosrun add_markers add_markers" &
+xterm  -e "source devel/setup.bash; roslaunch turtlebot_rviz_launchers view_navigation.launch rviz_config_file:=$(pwd)/src/rvizConfig/home_service.rviz" &
+sleep 10
+xterm  -e "source devel/setup.bash; rosrun add_markers add_markers_test" &
 xterm  -e "source devel/setup.bash; rosrun tf tf_echo /map /base_link" &
