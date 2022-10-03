@@ -79,7 +79,7 @@ int main( int argc, char** argv )
     marker_pub.publish(marker);
     ROS_INFO("Droping out ...");
     sleep(5);
-    
     r.sleep();
   }
+  return 0;
 }
